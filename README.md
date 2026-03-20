@@ -16,7 +16,6 @@ Estou a desenvolver competências em programação e tecnologia
 ### Website Pessoal
   Site simples com Phyton.
 ## Atualmente a aprender
-  - Phyton
   - Desenvolvimento Web
   - Html e CSS
 ## Objetivos
