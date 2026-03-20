@@ -4,21 +4,22 @@
 Sou estudante de GPSI com interesse em Programação.
 Estou a desenvolver competências em programação e tecnologia
 
-## Tecnologias
+## •Tecnologias
   - Python
   - HTML, CSS
   - Git e GitHub
 
-## Projetos
+## •Projetos
 
 ### Sistema de Tarefas
   Aplicação em Python para organizar tarefas diárias.
 ### Website Pessoal
   Site simples com Phyton.
-## Atualmente a aprender
+## •Atualmente a aprender
+  - Python
   - Desenvolvimento Web
   - Html e CSS
-## Objetivos
+## •Objetivos
 - Tornar-me programador
 - Trabalhar na área de tecnologia
 ## Contacto
